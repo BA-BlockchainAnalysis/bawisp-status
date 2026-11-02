@@ -4,36 +4,40 @@
     "url": "https://bawisp.com",
     "icon": "https://icons.duckduckgo.com/ip3/bawisp.com.ico",
     "slug": "ba-wisp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 129,
-    "timeWeek": 237,
-    "timeMonth": 283,
-    "timeYear": 237,
-    "dailyMinutesDown": {}
+    "time": 236,
+    "timeDay": 154,
+    "timeWeek": 233,
+    "timeMonth": 280,
+    "timeYear": 236,
+    "dailyMinutesDown": {
+      "2026-11-02": 0
+    }
   },
   {
     "name": "Anchoring pipeline",
     "url": "https://bawisp.com/api/cron/batch?healthcheck=1",
     "icon": "https://icons.duckduckgo.com/ip3/bawisp.com.ico",
     "slug": "anchoring-pipeline",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 956,
-    "timeDay": 780,
-    "timeWeek": 1003,
-    "timeMonth": 949,
-    "timeYear": 956,
-    "dailyMinutesDown": {}
+    "time": 948,
+    "timeDay": 428,
+    "timeWeek": 755,
+    "timeMonth": 922,
+    "timeYear": 948,
+    "dailyMinutesDown": {
+      "2026-11-02": 0
+    }
   },
   {
     "name": "Polygon RPC",
@@ -48,7 +52,7 @@
     "uptimeYear": "100.00%",
     "time": 134,
     "timeDay": 36,
-    "timeWeek": 92,
+    "timeWeek": 101,
     "timeMonth": 117,
     "timeYear": 134,
     "dailyMinutesDown": {}
@@ -66,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 666,
     "timeDay": 439,
-    "timeWeek": 593,
+    "timeWeek": 637,
     "timeMonth": 745,
     "timeYear": 666,
     "dailyMinutesDown": {}
