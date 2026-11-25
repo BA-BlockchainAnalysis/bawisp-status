@@ -1,7 +1,7 @@
 url: https://bawisp.com/api/cron/batch?healthcheck=1
 status: up
 code: 200
-responseTime: 1038
-lastUpdated: 2026-11-24T06:43:44.497Z
+responseTime: 983
+lastUpdated: 2026-11-25T05:13:23.658Z
 startTime: 2026-07-18T21:37:12.012Z
 generator: Upptime <https://github.com/upptime/upptime>
